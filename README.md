@@ -1,8 +1,3 @@
-# Hybrid-BERT-T5-with-Mixture-of-Experts
-Here’s a clean, GitHub-ready version of your paragraph formatted for a `README.md`. I’ve slightly polished the wording and formatting for clarity and professionalism:
-
----
-
 ### 📄 Hybrid BERT-T5 Mixture of Experts (MoE) Model
 
 This project introduces a **Hybrid BERT-T5 Mixture of Experts (MoE)** model designed for advanced educational NLP applications.
